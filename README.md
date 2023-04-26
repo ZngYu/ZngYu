@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ZngYu                   
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golang       
-- 📫 How to reach me zngyua@gmail.com   
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PotatoCloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-    ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zngyu&show_icons=true&theme=tokyonight)
-<!---
-ZngYu/ZngYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### hey, folks👋
+
+- 🖖 Hi, I’m Potato🥔
+- 🌱 I’m currently learning<img src="https://pbs.twimg.com/profile_images/554798224154701824/mWd3laxO_400x400.png" width="3.5%" height="auto">
+- 📫 You can contact me on GitHub
+
+`Live long and prosper`
