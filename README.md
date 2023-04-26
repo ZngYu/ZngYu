@@ -1,9 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PotatoCloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### hey, folks👋
-
-- 🖖 Hi, I’m Potato🥔
-- 🌱 I’m currently learning<img src="https://pbs.twimg.com/profile_images/554798224154701824/mWd3laxO_400x400.png" width="3.5%" height="auto">
+- 🖖 Hi, I’m ZngYu
 - 📫 You can contact me on GitHub
-
-`Live long and prosper`
